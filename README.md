@@ -1,2 +1,1 @@
-# starter
-XNODE Assignment
+This project looks at an email and converts the letters into numbers using the Vectorizer based on a trained model. This model has been trained with 60 examples and understands key words in order to understand the intent behind the email being read; this will increase productivity and allow requests to go into the correct direction without it being time consuming. It utilizes FastAPI as well as LanGraph to handle classifying a email and showcasing the result, the intent. 
