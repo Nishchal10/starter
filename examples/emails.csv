@@ -1,0 +1,61 @@
+id,body,intent
+1,I’d like to renew my policy before it expires.,PolicyRenewal
+2,Please update my KYC documents.,ReKYC
+3,I’m submitting a claim for the car accident last week.,ClaimsIntake
+4,How do I update my proof of address?,ReKYC
+5,I want to file a claim for water damage to my property.,ClaimsIntake
+6,My insurance is up for renewal. Can I do it online?,PolicyRenewal
+7,Here are my updated ID and address documents.,ReKYC
+8,Someone hit my car — I need to start a claim.,ClaimsIntake
+9,I want to renew my health insurance.,PolicyRenewal
+10,How do I complete my KYC again?,ReKYC
+11,Can you help me renew my insurance?,PolicyRenewal
+12,I need to verify my PAN card for compliance.,ReKYC
+13,There was a fire in my kitchen. I want to raise a claim.,ClaimsIntake
+14,I lost my insurance documents. Can I renew online?,PolicyRenewal
+15,I’ve attached my ID and address proof.,ReKYC
+16,My car got damaged — I want to submit a claim.,ClaimsIntake
+17,I want to know when my policy expires and renew it.,PolicyRenewal
+18,I’m sending my KYC details again.,ReKYC
+19,Please process my home insurance claim.,ClaimsIntake
+20,I need to renew my travel insurance.,PolicyRenewal
+21,I need to file a claim for flood damage.,ClaimsIntake
+22,Is my car insurance eligible for renewal?,PolicyRenewal
+23,I’m uploading my updated driver’s license for KYC.,ReKYC
+24,I want to renew my house insurance.,PolicyRenewal
+25,Where can I send my ID proof for verification?,ReKYC
+26,I need to claim reimbursement for my hospital bills.,ClaimsIntake
+27,Help me renew my vehicle policy.,PolicyRenewal
+28,Attached are my documents for KYC update.,ReKYC
+29,I was in a minor accident and need to file a claim.,ClaimsIntake
+30,I would like to renew before my coverage ends.,PolicyRenewal
+31,I want to resubmit my address proof.,ReKYC
+32,"My windshield broke, I want to raise a claim.",ClaimsIntake
+33,Please assist me with renewing my family health plan.,PolicyRenewal
+34,Here are my PAN and Aadhaar details for KYC.,ReKYC
+35,I want to file a claim for my stolen bike.,ClaimsIntake
+36,Kindly process my insurance renewal request.,PolicyRenewal
+37,Is it okay to email my documents for KYC?,ReKYC
+38,My claim for medical bills needs to be initiated.,ClaimsIntake
+39,I am ready to renew my life insurance.,PolicyRenewal
+40,This is my updated address for KYC purposes.,ReKYC
+41,I need help filing an insurance claim.,ClaimsIntake
+42,I want to extend my policy before expiry.,PolicyRenewal
+43,Re-attaching my ID for your records.,ReKYC
+44,I had an accident yesterday. Claim needed.,ClaimsIntake
+45,Please renew my term policy.,PolicyRenewal
+46,I’m attaching updated KYC forms.,ReKYC
+47,I had to visit the ER and want to submit a claim.,ClaimsIntake
+48,I’m ready to renew my travel policy.,PolicyRenewal
+49,Can I verify my documents via email?,ReKYC
+50,My claim for the broken appliance needs to be filed.,ClaimsIntake
+51,"Renewal link not working, please help.",PolicyRenewal
+52,Updated passport enclosed for verification.,ReKYC
+53,I was robbed last week and want to file a claim.,ClaimsIntake
+54,Want to continue my insurance — please renew.,PolicyRenewal
+55,Attached my government ID again for your records.,ReKYC
+56,I had water leakage in the basement — filing a claim.,ClaimsIntake
+57,Can you auto-renew my policy?,PolicyRenewal
+58,This is to verify my KYC with new documents.,ReKYC
+59,I’d like to claim for my lost luggage.,ClaimsIntake
+60,I would like to renew my premium plan.,PolicyRenewal
